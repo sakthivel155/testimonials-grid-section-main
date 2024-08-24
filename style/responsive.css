@@ -1,0 +1,23 @@
+@media screen and (min-width:1024px) {
+    .testimonials-container{
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .testimonials-container :nth-child(5),.grid-col-span-2{
+        grid-column: span 2;
+    }
+}
+@media screen and (min-width:1440px) {
+    .testimonials-container{
+        grid-template-columns: repeat(4, 1fr);
+        max-width: 1440px;
+        min-height:749px;
+    }
+    .grid-col-span-2{
+        grid-column: span 2;
+    }
+    .testimonials-container :nth-child(5){
+        grid-column-start: 4;
+        grid-row-start: 1;
+        grid-row-end:3;
+    }
+}

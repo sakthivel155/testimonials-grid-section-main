@@ -1,0 +1,9 @@
+@font-face {
+    font-family: BarlowSemiCondensed-Reg;
+    src: url('../assets/fonts/Barlow_Semi_Condensed/BarlowSemiCondensed-Medium.ttf');
+    font-display: swap;
+}
+
+:root{
+    --font-barlowsemicondensed-reg: 'BarlowSemiCondensed-Reg';
+}

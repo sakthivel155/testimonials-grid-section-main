@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--c-White);
+    font-size: 13px;
+    font-family: var(--font-barlowsemicondensed-reg);
+    background-color: var(--c-Light-grayish-blue);
+}
