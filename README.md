@@ -20,8 +20,8 @@ This challenge will be perfect practice for anyone wanting to test their CSS Gri
  
 ### Links
 
-- Solution URL: [Repo](https://github.com/sakthivel155/social-links-profile-main)
-- Live Site URL: [Live Demo](https://sakthivel155.github.io/social-links-profile-main/)
+- Solution URL: [Repo](https://github.com/sakthivel155/testimonials-grid-section-main)
+- Live Site URL: [Live Demo](https://sakthivel155.github.io/testimonials-grid-section-main/)
 
 ## My process
 
