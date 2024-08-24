@@ -1,5 +1,6 @@
 .testimonials-container{
     display: grid;
+    margin: auto;
     gap: 2em;
     padding: 4.4rem 1.5rem;
 }
